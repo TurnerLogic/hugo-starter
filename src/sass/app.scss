@@ -1,0 +1,14 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+// Variables
+@import 'variables';
+
+// Bulma
+@import '../../node_modules/bulma/bulma.sass';
+
+body {
+    font-family: "Nunito", Helvetica, sans-serif;
+    color: #8e8e8e;
+}

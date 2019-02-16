@@ -1,0 +1,27 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+paginate = 10
+paginatePath = "page"
+
+enableEmoji = true
+pygmentsUseClasses = true
+
+[params]
+
+    companyName = "Company Name"
+    googleSiteVerificationCode = ""
+    googleAnalyticsCode = ""
+
+[social]
+
+    ogTitle = "My New Hugo Site"
+    ogDescription = "My New Hugo Site Description"
+    ogImage = "/images/site-image.png"
+
+    facebookLink = ""
+    instagramLink = ""
+    twitterLink = ""
+    linkedinLink = ""
+    youtubeLink = ""
